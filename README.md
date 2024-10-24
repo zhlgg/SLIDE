@@ -1,4 +1,4 @@
-Source code of our NeurIPS 2024paper "Uncovering the Redundancy in Graph Self-supervised Learning Models".
+Source code of our NeurIPS 2024 paper "Uncovering the Redundancy in Graph Self-supervised Learning Models".
 # Usage
 ```bash
 # GRACE
